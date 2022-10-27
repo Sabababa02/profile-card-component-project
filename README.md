@@ -23,10 +23,10 @@
     position: absolute;
     top:92px;
     left:127px;
-
-.bg-1{
+    
+    .bg-1{
     position:absolute;
     z-index:1;
     bottom:50%;
     right:50%;
-}
+	}
